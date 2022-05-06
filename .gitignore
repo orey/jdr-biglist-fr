@@ -275,5 +275,3 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 
-# The pdf are not in github
-*.pdf
